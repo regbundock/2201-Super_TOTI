@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "PMP7-rescue")(type "Legacy")(uri "${KIPRJMOD}/PMP7-rescue.lib")(options "")(descr ""))
+)
